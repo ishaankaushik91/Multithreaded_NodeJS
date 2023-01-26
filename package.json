@@ -1,0 +1,24 @@
+{
+  "name": "multithreaded_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishaankaushik91/Multithreaded_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishaankaushik91/Multithreaded_NodeJS/issues"
+  },
+  "homepage": "https://github.com/ishaankaushik91/Multithreaded_NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
